@@ -1,0 +1,38 @@
+*{
+    margin-top: 10px;
+    padding: 0;
+    text-decoration: none;
+}
+.center{
+    width: auto;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 30px 30px;
+    border-radius: 5px;
+}
+h1{
+    margin: 10px 0;
+}
+.line{
+    height: 10px;
+    width: 800px;
+    background-color: black;
+    margin: 30px 0;
+}
+#liniya{
+    transition: 1s;
+}
+img{
+    width: 340px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+.buttons{
+    margin: 20px 0;
+}
+#images{
+    width: 1070px;
+    margin: 0 auto;
+}
